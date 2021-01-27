@@ -20,7 +20,7 @@ class userinput {
             System.out.println("My mile personal record is 5:19")
         }
         if (scanTimeval == 3200) {
-            System.out.println("My 2 mile personal record is 12:04")
+            System.out.println("My 2 mile personal record is 11:59")
         }
         if (scanTimeval == 5000) {
             System.out.println("My 5K personal record is 19:09")
